@@ -1,0 +1,4 @@
+node_modules
+pdfs/report_*
+pdfs/test_*
+package-lock.json
